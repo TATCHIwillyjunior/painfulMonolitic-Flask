@@ -71,6 +71,8 @@ The same app also exposes a JSON API if you prefer to use curl or Postman:
 He left the platform. Remove him from the system entirely.
 He should no longer appear anywhere in the app.
 
+TASK done ✅✅
+
 ---
 
 ### Task 2 — Rename `username` to `display_name`
